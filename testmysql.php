@@ -1,6 +1,6 @@
 <html>
     <body>
-<h2>Testing connection to mysql : </h2>
+<h2>Testing connection to mysql, please wait: </h2>
 <?php
 $servername = "mysql";
 $username = "root";
@@ -15,5 +15,6 @@ if ($conn->connect_error) {
 } 
 echo "Connected successfully";
 ?>
+<br><marquee><===== Love my marquee tags</marquee>
     </body>
 </html>
