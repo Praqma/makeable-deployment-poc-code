@@ -1,2 +1,2 @@
 # makeable-code
-PHP code for makable repository
+PHP code for makeable repository
