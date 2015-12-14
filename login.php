@@ -4,7 +4,7 @@
 echo gethostname(); 
 
 $servername = getenv("mysql_ip");
-echo $servername
+echo $servername;
 $username = "root";
 $password = "password";
 
@@ -19,4 +19,4 @@ echo "Connected successfully";
 
 ?>
 </body>
-</html>
+</html>
